@@ -12,4 +12,6 @@ for beer_num in range(99, 0, -1):
 			word = 'bottle'
 		print(new_num, word, 'of beer  the wall.')
 	print()
+
+# Добавил коментарии чтобы сделать комит
 	
